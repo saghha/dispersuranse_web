@@ -1,0 +1,32 @@
+{
+  "name": "tellus-ico",
+  "description": "The Laravel 5.4 ICO for Tellus Inc.",
+  "keywords": [
+    "framework",
+    "laravel",
+    "laravel 5.4",
+    "bootstrap",
+    "responsive",
+    "admin",
+    "php",
+    "html",
+    "css"
+  ],
+  "main": "",
+  "authors": [
+    "Felipe Silva",
+    "David Tapia"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}
